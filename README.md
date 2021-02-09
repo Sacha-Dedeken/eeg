@@ -1,1 +1,1 @@
-# eeg
+# EEG-based Brain-Computer Interface
